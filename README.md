@@ -1,16 +1,37 @@
-## Hi there 👋
+# Sangheon Lee
 
-<!--
-**11e3/11e3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quant trader & data analyst building automated crypto trading systems.
 
-Here are some ideas to get you started:
+2+ years running live trading bots on Upbit with real capital — **+101% in 2024**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+**[crypto-bot](https://github.com/11e3/crypto-bot)** — Live VBO trading bot on Upbit.
+Multi-account execution, Telegram alerts, Docker deployment on GCP. Currently managing ~35M KRW.
+
+**[crypto-lab](https://github.com/11e3/crypto-lab)** — Quant research & backtesting platform.
+Vectorized backtester, walk-forward analysis, parameter optimization, risk analytics (VaR, CVaR, MPT).
+
+## Live Performance
+
+| Year | Return | Note |
+|------|--------|------|
+| 2024 | **+101.26%** | First full year of live trading |
+| 2025 | **+19.28%** | Capital scaled 2× |
+| 2026 | **+8.58%** | Jan–Feb |
+
+## Tech Stack
+
+**Trading**: Python · pyupbit · Upbit/Binance API · VBO strategy family
+
+**Infrastructure**: Docker · GCP · systemd · GitHub Actions
+
+**Analysis**: pandas · DuckDB · XGBoost · Parquet · Streamlit
+
+**Dev**: mypy (strict) · ruff · pytest (80%+ coverage) · pre-commit
+
+## Background
+
+- B.S. Mathematics, UNIST (CS minor)
+- Data Analyst at Ashcore (crypto startup, Seoul)
+- 7+ years equity trading, 2+ years crypto quant
