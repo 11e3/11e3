@@ -1,13 +1,13 @@
 # Sangheon Lee
 
-Building LLM-powered systems — RAG pipelines, batch processing, real-time analysis automation.
+Building AI systems for financial markets — prediction verification, signal generation, and automated execution.
 
 ## Projects
 
-**[mer-insight-pipeline](https://github.com/11e3/mer-insight-pipeline)** — LLM batch processing + Hybrid RAG pipeline. Extracts structured intelligence from 2,193 unstructured documents. Claude API, pgvector, APScheduler, Telegram delivery.
+**[mer-insight-pipeline](https://github.com/11e3/mer-insight-pipeline)** — Financial prediction tracking & verification system. Extracts 5,368 predictions from 2,193 posts, collects market data from 6 sources, and uses Claude as an automated judge to verify predictions daily. GCP Cloud Run, PostgreSQL, Telegram delivery.
 
-**More projects available upon request** — 17,600 LOC time-series analysis platform (dual engine, 6 statistical validation methods), automated execution system (2+ years uptime, zero maintenance).
+**More projects available upon request** — On-chain signal scoring engine (17,600 LOC, 6 statistical validation methods) · Automated trading system (2+ years uptime, zero maintenance).
 
 ## Background
 
-B.S. Mathematics, UNIST (CS minor) · Data Analyst at fintech startup, Seoul
+B.S. Mathematics, UNIST (CS minor) · 7 years quantitative trading experience · Data Analyst at fintech startup, Seoul
